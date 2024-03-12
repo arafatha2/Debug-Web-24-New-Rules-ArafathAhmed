@@ -1,0 +1,23 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+body {
+  background: #6ca7f4;
+}
+
+h1{
+  color: #b6b1aa;
+  font-family: fantasy;
+  font-size: 48px;
+  text-align: center;
+}
+h3{
+  color: #785e3b;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+p{
+  color: #856d4c;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
